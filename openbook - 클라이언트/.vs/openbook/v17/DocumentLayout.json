@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|c:\\users\\edj94\\downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\opencv \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\imageselect.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|solutionrelative:imageselect.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\imageselect.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|solutionrelative:imageselect.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\searchresult.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|solutionrelative:searchresult.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\startpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|solutionrelative:startpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\booksearch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|solutionrelative:booksearch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\videorecog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|solutionrelative:videorecog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|solutionrelative:startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\searchresult.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|solutionrelative:searchresult.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\booksearch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|solutionrelative:booksearch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\videorecog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|solutionrelative:videorecog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|openbook||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\edj94\\source\\repos\\DJBOOKLIB\\DJBOOKLIB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\cam\\cam_set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A274E7-E6CA-44D1-B0C2-796B4774F0DC}|openbook.csproj|solutionrelative:cam\\cam_set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VideoRecog.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\VideoRecog.xaml",
+              "RelativeDocumentMoniker": "VideoRecog.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\VideoRecog.xaml",
+              "RelativeToolTip": "VideoRecog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-01T10:35:38.43Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookSearch.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\BookSearch.xaml",
+              "RelativeDocumentMoniker": "BookSearch.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\BookSearch.xaml",
+              "RelativeToolTip": "BookSearch.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T11:34:28.173Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "STARTPAGE.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\STARTPAGE.xaml",
+              "RelativeDocumentMoniker": "STARTPAGE.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\STARTPAGE.xaml",
+              "RelativeToolTip": "STARTPAGE.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-02T00:47:23.966Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchResult.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\SearchResult.xaml",
+              "RelativeDocumentMoniker": "SearchResult.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\SearchResult.xaml",
+              "RelativeToolTip": "SearchResult.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-01T10:55:45.254Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-05T10:58:52.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "STARTPAGE.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\STARTPAGE.xaml.cs",
+              "RelativeDocumentMoniker": "STARTPAGE.xaml.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\STARTPAGE.xaml.cs",
+              "RelativeToolTip": "STARTPAGE.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:34:30.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "openbook",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\openbook.csproj",
+              "RelativeDocumentMoniker": "openbook.csproj",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\openbook.csproj",
+              "RelativeToolTip": "openbook.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-05T07:09:32.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DJBOOKLIB.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\source\\repos\\DJBOOKLIB\\DJBOOKLIB.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\source\\repos\\DJBOOKLIB\\DJBOOKLIB.cs",
+              "ToolTip": "C:\\Users\\edj94\\source\\repos\\DJBOOKLIB\\DJBOOKLIB.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\DJBOOKLIB\\DJBOOKLIB.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAASwBAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:00:05.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookSearch.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\BookSearch.xaml.cs",
+              "RelativeDocumentMoniker": "BookSearch.xaml.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\BookSearch.xaml.cs",
+              "RelativeToolTip": "BookSearch.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:34:43.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageSelect.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\ImageSelect.xaml.cs",
+              "RelativeDocumentMoniker": "ImageSelect.xaml.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\ImageSelect.xaml.cs",
+              "RelativeToolTip": "ImageSelect.xaml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAawE4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:34:41.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageSelect.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\ImageSelect.xaml",
+              "RelativeDocumentMoniker": "ImageSelect.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\ImageSelect.xaml",
+              "RelativeToolTip": "ImageSelect.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-01T10:43:01.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvx4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:04:00.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VideoRecog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\VideoRecog.xaml.cs",
+              "RelativeDocumentMoniker": "VideoRecog.xaml.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\VideoRecog.xaml.cs",
+              "RelativeToolTip": "VideoRecog.xaml.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAYwIoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:53:05.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SearchResult.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\SearchResult.xaml.cs",
+              "RelativeDocumentMoniker": "SearchResult.xaml.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\SearchResult.xaml.cs",
+              "RelativeToolTip": "SearchResult.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAApwBgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:10:49.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-01T10:04:00.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T07:09:05.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "cam_set.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\cam\\cam_set.cs",
+              "RelativeDocumentMoniker": "cam\\cam_set.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\finish list\\15. \uB3C4\uC11C \uBD84\uB958 \uC790\uB3D9\uD654\\OpenCV \uBD84\uB958 \uC790\uB3D9\uD654 \uC2DC\uC2A4\uD15C\\\uCF54\uB4DC\\openbook - \uD074\uB77C\uC774\uC5B8\uD2B8\\cam\\cam_set.cs",
+              "RelativeToolTip": "cam\\cam_set.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:53:51.9Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 502,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

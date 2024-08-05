@@ -1,0 +1,73 @@
+﻿<Page x:Class="openbook.BookSearch"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:openbook"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="950"
+      Title="BookSearch">
+
+    <Grid Background="#FFF1E6CE">
+        <Button x:Name="btn_Csharp" HorizontalAlignment="Left" Margin="432,128,0,0" VerticalAlignment="Top" Width="125" Height="175" Click="btn_Csharp_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="/Resources/img1.jpg"/>
+            </Button.Background>
+
+        </Button>
+        <Button x:Name="btn_TCP_IP" HorizontalAlignment="Left" Margin="609,128,0,0" VerticalAlignment="Top" Width="126" Height="175" Click="btn_TCP_IP_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="/Resources/img2.jpg"/>
+            </Button.Background>
+
+        </Button>
+        <Button x:Name="btn_C" HorizontalAlignment="Left" Margin="788,128,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.428,-0.903" Width="125" Height="175" Click="btn_C_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="/Resources/img3.jpg"/>
+            </Button.Background>
+
+
+        </Button>
+        <Button x:Name="btn_MySQL" HorizontalAlignment="Left" Margin="432,315,0,0" VerticalAlignment="Top" Width="125" Height="175" Click="btn_MySQL_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="/Resources/img4.jpg"/>
+            </Button.Background>
+
+        </Button>
+        <Button x:Name="btn_learn_MySQL"  HorizontalAlignment="Left" Margin="609,315,0,0" VerticalAlignment="Top" Width="126" Height="175" Click="btn_learn_MySQL_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="/Resources/img5.jpg"/>
+            </Button.Background>
+
+        </Button>
+        <Button x:Name="btn_CPP" HorizontalAlignment="Left" Margin="790,315,0,0" VerticalAlignment="Top" Width="123" Height="175" Click="btn_CPP_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="/Resources/img6.jpg"/>
+            </Button.Background>
+
+        </Button>
+        <TextBox x:Name="Bookname_Search" HorizontalAlignment="Left" Margin="431,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="432" Height="36" FontSize="18" BorderBrush="#FFB99470" Background="{x:Null}" Padding="10,0,0,0" VerticalContentAlignment="Center" BorderThickness="1.5" Foreground="#FF5F6F52" FontWeight="Bold"/>
+        <Button x:Name="btn_Search" HorizontalAlignment="Left" Margin="878,79,0,0" VerticalAlignment="Top" Height="38" Width="39" FontSize="18" Click="btn_Search_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="/Resources/magnify.png"/>
+            </Button.Background>
+        </Button>
+        <Label Content="이달의 도서" HorizontalAlignment="Center" Height="33" Margin="0,21,0,0" VerticalAlignment="Top" Width="894" FontSize="20" Foreground="White" VerticalContentAlignment="Center" FontWeight="Bold" Padding="15,5,5,5">
+            <Label.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </Label.Resources>
+            <Label.Background>
+                <SolidColorBrush Color="#FFB99470" Opacity="0.6"/>
+            </Label.Background>
+        </Label>
+        <Button x:Name="btn_temp" HorizontalAlignment="Left" Margin="46,128,0,0" VerticalAlignment="Top" Width="303" Height="362" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="/Resources/csharp.jpg"/>
+            </Button.Background>
+
+        </Button>
+
+    </Grid>
+</Page>
